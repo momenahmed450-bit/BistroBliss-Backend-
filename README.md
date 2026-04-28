@@ -28,7 +28,7 @@ This is the **RESTful API** backend for the BistroBliss Restaurant Management Sy
    git clone [https://github.com/momenahmed450-bit/BistroBliss-Backend.git](https://github.com/momenahmed450-bit/BistroBliss-Backend.git)
 
 
-    <!-- Install Dependencies: -->
+
 
 Bash
 composer install

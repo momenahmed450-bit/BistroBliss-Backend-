@@ -44,3 +44,6 @@ Route::middleware(['auth:sanctum', 'admin'])->group(function () {
 
     
 });
+Route::get('/status', function () {
+    return response()->json(['message' => 'Backend is connected!']);
+});
